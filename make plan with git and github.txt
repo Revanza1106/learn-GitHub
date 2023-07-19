@@ -3,5 +3,5 @@ My Plan With Github:
   *my friends
 -I am going to use git and github together
 -Making new code systeam with git
--Work with commmunity
 -and create amazing code
+-I am going to learn node js
